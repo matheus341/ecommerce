@@ -1,9 +1,9 @@
 {
-    "name": "hcodebr/ecommerce",
+    "name": "hcodebr/allwebonline",
     "authors": [
         {
-            "name": "Hcode Treinamentos",
-            "email": "suporte@hcode.com.br"
+            "name": "AllWeb vendas online",
+            "email": "mrmatheus5@gmail.com"
         }
     ],
     "require": {
@@ -13,9 +13,7 @@
     },
     "autoload": {
         "psr-4": {
- 
- "Hcode\\": "vendor\\hcodebr\\php-classes\\src"                                                                        
-       
+            "": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }
